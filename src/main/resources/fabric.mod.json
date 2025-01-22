@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "kjgemstones",
+	"version": "A-0.3",
+	"name": "Moar Ores",
+	"description": "i would like to finish this mod but i cannot guarantee that it will happen :)",
+	"authors": [
+		"KingJacob"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/kjgemstones/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.kingjacob.MoarOres"
+		],
+		"fabric-datagen": [
+			"com.kingjacob.MoarOresDataGenerator"
+		],
+		"client": [
+			"com.kingjacob.MoarOresClient"
+		]
+	},
+	"mixins": [
+		"kjgemstones.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

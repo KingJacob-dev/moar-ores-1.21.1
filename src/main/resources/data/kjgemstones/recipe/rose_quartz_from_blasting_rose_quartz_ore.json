@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "rose_quartz",
+  "ingredient": {
+    "item": "kjgemstones:rose_quartz_ore"
+  },
+  "result": {
+    "id": "kjgemstones:rose_quartz"
+  }
+}

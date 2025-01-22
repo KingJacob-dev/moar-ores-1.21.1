@@ -1,0 +1,19 @@
+{
+  "item.kjgemstones.opal": "Opal",
+  "item.kjgemstones.ruby": "Ruby",
+  "item.kjgemstones.rose_quartz": "Rose Quartz",
+
+  "item.kjgemstones.rose_heart": "Rose Heart",
+
+  "block.kjgemstones.block_of_opal": "Block of Opal",
+  "block.kjgemstones.opal_ore": "Opal Ore",
+  "block.kjgemstones.deepslate_opal_ore": "Deepslate Opal Ore",
+  "block.kjgemstones.block_of_ruby": "Block of Ruby",
+  "block.kjgemstones.nether_ruby_ore": "Nether Ruby Ore",
+  "block.kjgemstones.block_of_rose_quartz": "Block of Rose Quartz",
+  "block.kjgemstones.rose_quartz_ore": "Rose Quartz Ore",
+  "block.kjgemstones.deepslate_rose_quartz_ore": "Deepslate Rose Quartz Ore",
+
+  "itemgroup.kjgemstones.moar_ores_items": "Moar Ores"
+
+}
