@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "kjgemstones:block_of_ruby"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "kjgemstones:ruby"
+  }
+}

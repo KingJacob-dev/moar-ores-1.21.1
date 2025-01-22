@@ -1,0 +1,3 @@
+// 1.21.1	2025-01-22T15:20:28.498418033	Moar Ores/Tags for minecraft:block
+cdfe580e8e38eac536d167d3d5c772302c854bdf data/minecraft/tags/block/mineable/pickaxe.json
+cdfe580e8e38eac536d167d3d5c772302c854bdf data/minecraft/tags/block/needs_iron_tool.json

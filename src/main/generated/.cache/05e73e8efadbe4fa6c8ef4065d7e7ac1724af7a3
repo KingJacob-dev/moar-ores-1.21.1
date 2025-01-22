@@ -1,0 +1,9 @@
+// 1.21.1	2025-01-22T15:20:28.499011705	Moar Ores/Block Loot Tables
+3c74a465e0c70d5fc743b8b44514dc403a059017 data/kjgemstones/loot_table/blocks/block_of_rose_quartz.json
+bb240826d379ff7249d542433e483eb0fd70f84c data/kjgemstones/loot_table/blocks/block_of_ruby.json
+f2293952602594be2c0b0b3a6866585fdea6a88f data/kjgemstones/loot_table/blocks/nether_ruby_ore.json
+debba11678a6f8ac18ca0c480af9c5961ebfa240 data/kjgemstones/loot_table/blocks/deepslate_rose_quartz_ore.json
+1514bcc1c2fc4b913cf3728a5912c7ee638f1efd data/kjgemstones/loot_table/blocks/opal_ore.json
+36791de59e548c6f5fdfdcd2d357063656b0683e data/kjgemstones/loot_table/blocks/block_of_opal.json
+d73c32e1189cf13e36c552c2cb3abdd62e7bb971 data/kjgemstones/loot_table/blocks/rose_quartz_ore.json
+d221628e2a194d70fe5e4e49301dfb0192bff71e data/kjgemstones/loot_table/blocks/deepslate_opal_ore.json

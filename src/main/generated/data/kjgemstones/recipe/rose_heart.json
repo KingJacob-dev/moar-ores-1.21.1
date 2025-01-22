@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "kjgemstones:block_of_rose_quartz"
+    },
+    "R": {
+      "item": "kjgemstones:rose_quartz"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "RBR",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "kjgemstones:rose_heart"
+  }
+}
