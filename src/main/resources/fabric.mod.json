@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
 	"id": "kjgemstones",
-	"version": "A-0.3",
+	"version": "1.0",
 	"name": "Moar Ores",
-	"description": "i would like to finish this mod but i cannot guarantee that it will happen :)",
+	"description": "The first KingJacob mod, (somewhat) focused on adding more ores to the game.",
 	"authors": [
 		"KingJacob"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://discord.gg/9XaYmJr7QD",
+		"sources": "https://github.com/KingJacob-dev/moar-ores-1.21.1"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/kjgemstones/icon.png",
