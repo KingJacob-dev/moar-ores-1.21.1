@@ -4,6 +4,7 @@ import com.kingjacob.block.ModBlocks;
 import com.kingjacob.item.ModFoodComponents;
 import com.kingjacob.item.ModItemGroups;
 import com.kingjacob.item.ModItems;
+import com.kingjacob.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -19,6 +20,8 @@ public class MoarOres implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		ModWorldGeneration.generateModWorldGen();
 
 		LOGGER.info("Hello Fabric world!");
 	}
